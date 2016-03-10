@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ben Jansen]]></title>
+        <description><![CDATA[Ben Jansen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 20:08:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fantastische omschrijving]]></title>
+            <description><![CDATA[<article><h1>Fantastische omschrijving</h1><p>V&S Beveiliging BV is een Borg beveiligingsbedrijf welke producten en diensten levert die voldoen aan alle Borg klasse(n). Er wordt na de getroffen beveiligingsmaatregelen een BORG Beveiliging certificaat afgegeven waarop wordt vermeld aan welke Borg klasse het pand is opgeleverd. Voor een borg certificaat zijn er 4 beveiligingsmaatregelen van belang.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25ad21e8070c3ffc035c0df76f9ba47fad49fdab.jpg"></article>]]></description>
+            <link>http://www.vs-beveiliging.nl/alarmsystemen/hebt-u-een-verzekeringseis-waarin-beveiliging-conform-borg-klasse-wordt-geeist/</link>
+            <guid isPermaLink="false">16d8d684-98cd-477d-b846-f2e91d4a4e4b</guid>
+            <pubDate>Thu, 10 Mar 2016 20:08:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
