@@ -1,0 +1,14 @@
+layout_spectrum: 0.2831541
+color:
+  saturation: 0.8091766
+  brandStrength: 0.6725612
+  lightness: 0.3512545
+  rhythmicContrast: 0.4752424
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.2508961
+name: Ben Jansen
